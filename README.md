@@ -1,4 +1,9 @@
-# smart-brain-app-lk
-the smart-brain-app is an responsive site made with react.js, 
-I made also the server side with Node.JS . 
-site link : https://smart-brain-app-lk.herokuapp.com/
+# SmartBrain - v1
+Final project for Udemy course
+
+1. Clone this repo
+2. Run `npm install`
+3. Run `npm start`
+4. You must add your own API key in the `src/App.js` file to connect to Clarifai.
+
+You can grab Clarifai API key [here](https://www.clarifai.com/)
